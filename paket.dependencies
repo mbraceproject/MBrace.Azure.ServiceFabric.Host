@@ -1,0 +1,8 @@
+framework: >= net45
+redirects: on
+source https://www.nuget.org/api/v2
+
+nuget FSharp.Core
+nuget Microsoft.ServiceFabric.Services
+nuget MBrace.Azure
+nuget Microsoft.VisualStudio.Azure.Fabric.MSBuild

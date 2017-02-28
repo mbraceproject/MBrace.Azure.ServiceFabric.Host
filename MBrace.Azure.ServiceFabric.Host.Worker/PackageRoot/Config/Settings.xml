@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Section Name="MBrace">
+    <Parameter Name="StorageConnectionString" Value="[MBrace_StorageConnectionString]" />
+    <Parameter Name="ServiceBusConnectionString" Value="[MBrace_ServiceBusConnectionString]" />
+    <Parameter Name="HeartbeatInterval" Value="[MBrace_HeartbeatInterval]" />
+    <Parameter Name="HeartbeatThreshold" Value="[MBrace_HeartbeatThreshold]" />
+    <Parameter Name="LogLevel" Value="[MBrace_LogLevel]" />
+    <Parameter Name="LogFile" Value="[MBrace_LogFile]" />
+  </Section>
+</Settings>
