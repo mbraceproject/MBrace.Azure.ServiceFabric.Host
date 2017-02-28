@@ -22,7 +22,7 @@ Hosting MBrace cluster inside Azure Service Fabric.
 4. Set correct values of your service bus and storage connection strings.
 
    Modify parameter files in `ApplicationParameters` folder inside `MBrace.Azure.ServiceFabric.Host` project.
-   Use `Cloud.xml` or `Local.xNodexml` depending on whether you have remote or local cluster.
+   Use `Cloud.xml` or `Local.xNode.xml` depending on whether you have remote or local cluster.
    `MBrace_StorageConnectionString` is for storage and `MBrace_ServiceBusConnectionString` is for service bus connection string.
 
    Example:
