@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
@@ -20,24 +20,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "project", "project", "{5720
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
-		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{646EA4D4-4B2C-4A98-B07B-4343BCFFFC31}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{646EA4D4-4B2C-4A98-B07B-4343BCFFFC31}.Debug|x64.ActiveCfg = Debug|x64
 		{646EA4D4-4B2C-4A98-B07B-4343BCFFFC31}.Debug|x64.Build.0 = Debug|x64
 		{646EA4D4-4B2C-4A98-B07B-4343BCFFFC31}.Debug|x64.Deploy.0 = Debug|x64
-		{646EA4D4-4B2C-4A98-B07B-4343BCFFFC31}.Release|Any CPU.ActiveCfg = Release|x64
 		{646EA4D4-4B2C-4A98-B07B-4343BCFFFC31}.Release|x64.ActiveCfg = Release|x64
 		{646EA4D4-4B2C-4A98-B07B-4343BCFFFC31}.Release|x64.Build.0 = Release|x64
 		{646EA4D4-4B2C-4A98-B07B-4343BCFFFC31}.Release|x64.Deploy.0 = Release|x64
-		{90E0CCC0-88B3-4B5C-9EF2-F98589CDDE4E}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{90E0CCC0-88B3-4B5C-9EF2-F98589CDDE4E}.Debug|x64.ActiveCfg = Debug|x64
 		{90E0CCC0-88B3-4B5C-9EF2-F98589CDDE4E}.Debug|x64.Build.0 = Debug|x64
-		{90E0CCC0-88B3-4B5C-9EF2-F98589CDDE4E}.Release|Any CPU.ActiveCfg = Release|x64
 		{90E0CCC0-88B3-4B5C-9EF2-F98589CDDE4E}.Release|x64.ActiveCfg = Release|x64
 		{90E0CCC0-88B3-4B5C-9EF2-F98589CDDE4E}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
